@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "Puerto Montt",
+        "slug": "puerto-montt",
+        "description": "Capital de la Región de Los Lagos, Puerto Montt es una ciudad vibrante que combina el desarrollo urbano con un entorno natural privilegiado. Con vista al Seno de Reloncaví y rodeada de volcanes, ofrece una calidad de vida excepcional con todos los servicios de una ciudad moderna.",
+        "highlights": [
+            "Capital regional con todos los servicios",
+            "Aeropuerto internacional El Tepual",
+            "Conexión directa a Chiloé y la Carretera Austral",
+            "Puerto comercial y pesquero",
+            "Centro gastronómico del sur de Chile"
+        ],
+        "opportunities": "Puerto Montt ofrece excelentes oportunidades de inversión inmobiliaria gracias a su constante crecimiento poblacional y desarrollo económico. Los sectores de Pelluco, Chinquihue y Alerce son los más demandados para viviendas familiares, mientras que el centro urbano concentra la mayor actividad comercial.",
+        "image": "/images/properties/casa-puerto-montt-1.png"
+    },
+    {
+        "id": "2",
+        "name": "Chiloé",
+        "slug": "chiloe",
+        "description": "El archipiélago de Chiloé es un destino único en el mundo, declarado Patrimonio de la Humanidad por la UNESCO. Sus iglesias de madera, palafitos coloridos y tradiciones ancestrales lo convierten en un lugar mágico para vivir o invertir. La isla grande ofrece una calidad de vida tranquila y conectada con la naturaleza.",
+        "highlights": [
+            "Patrimonio de la Humanidad UNESCO",
+            "Naturaleza y biodiversidad únicas",
+            "Gastronomía y cultura tradicional",
+            "Creciente turismo internacional",
+            "Precios accesibles con alto potencial de valorización"
+        ],
+        "opportunities": "Chiloé presenta un mercado inmobiliario en pleno crecimiento, impulsado por el turismo y la búsqueda de calidad de vida. Castro y Ancud son los principales centros urbanos, mientras que localidades como Dalcahue y Chonchi ofrecen oportunidades para proyectos turísticos y segundas viviendas.",
+        "image": "/images/properties/casa-chiloe-1.png"
+    },
+    {
+        "id": "3",
+        "name": "Puerto Varas",
+        "slug": "puerto-varas",
+        "description": "Conocida como la 'Ciudad de las Rosas', Puerto Varas es una de las ciudades más hermosas del sur de Chile. Ubicada a orillas del Lago Llanquihue con vista al Volcán Osorno, combina la herencia colonizadora alemana con un estilo de vida moderno y conectado con la naturaleza.",
+        "highlights": [
+            "Vista al Lago Llanquihue y Volcán Osorno",
+            "Arquitectura de herencia alemana",
+            "Centro turístico de nivel internacional",
+            "Excelente gastronomía y hotelería",
+            "Deportes náuticos y actividades outdoor"
+        ],
+        "opportunities": "Puerto Varas es el destino premium del sur de Chile para inversión inmobiliaria. Las propiedades con vista al lago tienen una alta demanda tanto para residencia permanente como para arriendo turístico. El constante flujo de turistas nacionales e internacionales asegura una excelente rentabilidad.",
+        "image": "/images/properties/casa-puerto-varas-1.png"
+    },
+    {
+        "id": "4",
+        "name": "Llanquihue",
+        "slug": "llanquihue",
+        "description": "La ciudad de Llanquihue, ubicada en la ribera sur del lago homónimo, es una alternativa tranquila y accesible para quienes buscan vivir cerca de Puerto Varas y Puerto Montt. Con un crecimiento sostenido y precios competitivos, es una excelente opción para familias jóvenes y proyectos inmobiliarios.",
+        "highlights": [
+            "Ubicación estratégica entre Puerto Montt y Puerto Varas",
+            "Precios más accesibles que ciudades vecinas",
+            "Ribera del Lago Llanquihue",
+            "Crecimiento urbano planificado",
+            "Ambiente familiar y seguro"
+        ],
+        "opportunities": "Llanquihue se ha convertido en una excelente alternativa para inversión inmobiliaria, con terrenos y propiedades a precios significativamente menores que Puerto Varas. Su cercanía a ambas ciudades y el desarrollo de nuevos proyectos la posicionan como una zona de alta valorización futura.",
+        "image": "/images/properties/casa-puerto-varas-2.png"
+    }
+]

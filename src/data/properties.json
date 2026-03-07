@@ -1,0 +1,194 @@
+[
+  {
+    "id": "1",
+    "title": "Casa Moderna con Vista al Lago",
+    "slug": "casa-moderna-vista-lago-puerto-montt",
+    "price": 185000000,
+    "currency": "CLP",
+    "location": "Puerto Montt",
+    "zone": "puerto-montt",
+    "address": "Sector Pelluco Alto, Puerto Montt",
+    "type": "Casa",
+    "status": "Venta",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 220,
+    "lotArea": 800,
+    "yearBuilt": 2021,
+    "description": "Espectacular casa moderna ubicada en el exclusivo sector de Pelluco Alto, con impresionantes vistas panorámicas al Seno de Reloncaví y los volcanes Osorno y Calbuco. Diseño contemporáneo con amplios ventanales que integran el paisaje natural al interior. Cuenta con terminaciones de primera calidad, calefacción central, y un amplio jardín perfectamente mantenido.",
+    "features": [
+      "Vista panorámica al lago",
+      "Calefacción central",
+      "Estacionamiento doble",
+      "Jardín amplio",
+      "Cocina equipada",
+      "Pisos de madera nativa",
+      "Sistema de alarma",
+      "Bodega"
+    ],
+    "images": [
+      "/images/properties/casa-puerto-montt-1.png"
+    ],
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Cabaña Premium en Puerto Varas",
+    "slug": "cabana-premium-puerto-varas",
+    "price": 220000000,
+    "currency": "CLP",
+    "location": "Puerto Varas",
+    "zone": "puerto-varas",
+    "address": "Ribera del Lago Llanquihue, Puerto Varas",
+    "type": "Casa",
+    "status": "Venta",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 180,
+    "lotArea": 1200,
+    "yearBuilt": 2019,
+    "description": "Hermosa cabaña de diseño ubicada a orillas del Lago Llanquihue con vista directa al Volcán Osorno. Construcción en madera nativa con amplios ventanales y balcón panorámico. Perfecta combinación entre el encanto rústico y las comodidades modernas. Ideal para quienes buscan vivir en contacto con la naturaleza sin renunciar al confort.",
+    "features": [
+      "Orilla de lago",
+      "Vista al volcán Osorno",
+      "Balcón panorámico",
+      "Estufa a leña",
+      "Madera nativa",
+      "Muelle privado",
+      "Calefacción por losa radiante",
+      "Quincho"
+    ],
+    "images": [
+      "/images/properties/casa-puerto-varas-1.png"
+    ],
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "Casa Tradicional Renovada en Chiloé",
+    "slug": "casa-tradicional-renovada-chiloe",
+    "price": 95000000,
+    "currency": "CLP",
+    "location": "Chiloé",
+    "zone": "chiloe",
+    "address": "Castro, Chiloé",
+    "type": "Casa",
+    "status": "Venta",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 150,
+    "lotArea": 500,
+    "yearBuilt": 2018,
+    "description": "Encantadora casa chilota completamente renovada, manteniendo la arquitectura tradicional con tejuelas de alerce y colores vibrantes típicos de la isla. Interior modernizado con diseño abierto, cocina gourmet y baños de primera. Ubicada en un sector privilegiado de Castro con vista al mar y acceso a todos los servicios.",
+    "features": [
+      "Arquitectura chilota tradicional",
+      "Completamente renovada",
+      "Vista al mar",
+      "Tejuelas de alerce",
+      "Cocina gourmet",
+      "Jardín nativo",
+      "Estacionamiento",
+      "Bodega"
+    ],
+    "images": [
+      "/images/properties/casa-chiloe-1.png"
+    ],
+    "featured": true
+  },
+  {
+    "id": "4",
+    "title": "Parcela con Casa Patronal",
+    "slug": "parcela-casa-patronal-puerto-montt",
+    "price": 320000000,
+    "currency": "CLP",
+    "location": "Puerto Montt",
+    "zone": "puerto-montt",
+    "address": "Camino a Chinquihue, Puerto Montt",
+    "type": "Parcela",
+    "status": "Venta",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 350,
+    "lotArea": 5000,
+    "yearBuilt": 2020,
+    "description": "Impresionante parcela de 5.000 m² con casa patronal de 350 m² construidos. Ubicada en el codiciado sector de Chinquihue con acceso directo al mar. La propiedad cuenta con casa principal, casa de huéspedes, quincho cerrado y amplios jardines. Ideal para quienes buscan privacidad y contacto con la naturaleza.",
+    "features": [
+      "Parcela de 5.000 m²",
+      "Acceso al mar",
+      "Casa de huéspedes",
+      "Quincho cerrado",
+      "Piscina temperada",
+      "Riego automático",
+      "Cerco eléctrico",
+      "Portón automático"
+    ],
+    "images": [
+      "/images/properties/casa-puerto-montt-1.png"
+    ],
+    "featured": false
+  },
+  {
+    "id": "5",
+    "title": "Casa Frente al Lago Llanquihue",
+    "slug": "casa-frente-lago-llanquihue",
+    "price": 280000000,
+    "currency": "CLP",
+    "location": "Puerto Varas",
+    "zone": "puerto-varas",
+    "address": "Costanera Norte, Puerto Varas",
+    "type": "Casa",
+    "status": "Venta",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 260,
+    "lotArea": 1500,
+    "yearBuilt": 2022,
+    "description": "Exclusiva propiedad frente al Lago Llanquihue con muelle privado y vista inigualable al Volcán Osorno. Casa de diseño contemporáneo con amplios espacios, luz natural abundante y terminaciones premium. Cuenta con sistema domótico, calefacción por losa radiante y jardín diseñado por paisajista profesional.",
+    "features": [
+      "Frente al lago",
+      "Muelle privado",
+      "Sistema domótico",
+      "Losa radiante",
+      "Jardín de paisajista",
+      "Home office",
+      "Sala de cine",
+      "Garage triple"
+    ],
+    "images": [
+      "/images/properties/casa-puerto-varas-2.png"
+    ],
+    "featured": false
+  },
+  {
+    "id": "6",
+    "title": "Cabaña Rústica en Chiloé",
+    "slug": "cabana-rustica-chiloe",
+    "price": 75000000,
+    "currency": "CLP",
+    "location": "Chiloé",
+    "zone": "chiloe",
+    "address": "Dalcahue, Chiloé",
+    "type": "Cabaña",
+    "status": "Venta",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 90,
+    "lotArea": 300,
+    "yearBuilt": 2023,
+    "description": "Acogedora cabaña de estilo rústico moderno en Dalcahue, con vistas al canal y las islas. Perfecta como segunda vivienda o inversión turística. Construcción nueva con materiales de calidad, aislación térmica premium y diseño que aprovecha cada metro cuadrado. Entorno natural único con acceso a playas y senderos.",
+    "features": [
+      "Vista al canal",
+      "Construcción nueva",
+      "Aislación premium",
+      "Estufa a leña",
+      "Terraza techada",
+      "Estacionamiento",
+      "Cercada",
+      "Agua de pozo profundo"
+    ],
+    "images": [
+      "/images/properties/casa-chiloe-2.png"
+    ],
+    "featured": false
+  }
+]
