@@ -1,27 +1,32 @@
+import Image from 'next/image';
 import Link from 'next/link';
 
 export function Hero() {
     return (
         <section
             id="hero"
-            className="relative min-h-[85vh] flex items-center justify-center overflow-hidden"
+            className="relative min-h-[90vh] flex items-center justify-center overflow-hidden"
         >
-            {/* Background image */}
-            <div
-                className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-                style={{ backgroundImage: "url('/images/hero/hero-bg.png')" }}
-                aria-hidden="true"
+            {/* Background image — using next/image for WebP auto-conversion and responsive sizing */}
+            <Image
+                src="/images/hero/hero-bg.png"
+                alt="Paisaje del sur de Chile — lagos y montañas"
+                fill
+                priority
+                className="object-cover"
+                sizes="100vw"
+                quality={75}
             />
 
             {/* Gradient overlays */}
-            <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-black/20 to-black/50" />
+            <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/25 to-black/55 z-[1]" />
 
             {/* Content */}
-            <div className="relative z-10 mx-auto max-w-4xl px-4 text-center text-white">
-                <h1 className="font-[var(--font-heading)] text-4xl sm:text-5xl md:text-6xl font-semibold leading-tight mb-6 drop-shadow-lg">
-                    Encuentra tu próxima propiedad en el sur de Chile
+            <div className="relative z-10 mx-auto max-w-4xl px-6 pt-20 text-center text-white">
+                <h1 className="font-[var(--font-heading)] text-3xl sm:text-5xl md:text-6xl font-semibold leading-tight mb-6 drop-shadow-lg">
+                    Encuentra Tu Próxima Propiedad en el Sur de Chile
                 </h1>
-                <p className="text-lg sm:text-xl text-white/90 mb-10 max-w-2xl mx-auto font-light drop-shadow">
+                <p className="text-base sm:text-xl text-white/90 mb-10 max-w-2xl mx-auto font-light drop-shadow">
                     Venta, arriendo y administración de propiedades en Puerto Montt, Chiloé y Puerto Varas.
                 </p>
 
@@ -44,7 +49,7 @@ export function Hero() {
             </div>
 
             {/* Scroll indicator */}
-            <div className="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce">
+            <div className="absolute bottom-8 left-1/2 -translate-x-1/2 animate-bounce z-10">
                 <svg
                     className="h-6 w-6 text-white/70"
                     fill="none"

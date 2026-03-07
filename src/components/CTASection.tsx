@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import Link from 'next/link';
 
 export function CTASection() {
@@ -6,13 +7,17 @@ export function CTASection() {
             id="cta"
             className="relative py-20 overflow-hidden"
         >
-            {/* Background */}
-            <div
-                className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-                style={{ backgroundImage: "url('/images/hero/hero-bg.png')" }}
+            {/* Background — next/image for WebP auto-conversion */}
+            <Image
+                src="/images/hero/hero-bg.png"
+                alt=""
+                fill
+                className="object-cover"
+                sizes="100vw"
+                quality={60}
                 aria-hidden="true"
             />
-            <div className="absolute inset-0 bg-navy/80" />
+            <div className="absolute inset-0 bg-navy/80 z-[1]" />
 
             {/* Content */}
             <div className="relative z-10 mx-auto max-w-4xl px-4 sm:px-6 lg:px-8 text-center">
