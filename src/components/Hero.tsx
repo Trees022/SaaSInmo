@@ -19,11 +19,10 @@ export function Hero() {
             {/* Content */}
             <div className="relative z-10 mx-auto max-w-4xl px-4 text-center text-white">
                 <h1 className="font-[var(--font-heading)] text-4xl sm:text-5xl md:text-6xl font-semibold leading-tight mb-6 drop-shadow-lg">
-                    Vendemos y administramos propiedades en Puerto Montt, Chiloé y
-                    alrededores.
+                    Encuentra tu próxima propiedad en el sur de Chile
                 </h1>
                 <p className="text-lg sm:text-xl text-white/90 mb-10 max-w-2xl mx-auto font-light drop-shadow">
-                    Su hogar ideal en el sur de Chile.
+                    Venta, arriendo y administración de propiedades en Puerto Montt, Chiloé y Puerto Varas.
                 </p>
 
                 <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

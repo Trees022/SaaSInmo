@@ -2,13 +2,13 @@ import type { Metadata } from 'next';
 
 /** Site-wide SEO constants — easy to swap per client */
 export const siteConfig = {
-    name: 'Tu Inmobiliaria',
+    name: 'Austral Propiedades',
     description:
-        'Vendemos y administramos propiedades en Puerto Montt, Chiloé, Puerto Varas y alrededores. Su hogar ideal en el sur de Chile.',
-    url: 'https://tuinmobiliaria.cl',
+        'Venta, arriendo y administración de propiedades en Puerto Montt, Chiloé, Puerto Varas y alrededores. Especialistas en propiedades del sur de Chile.',
+    url: 'https://australpropiedades.cl',
     locale: 'es_CL',
     phone: '+56 9 1234 5678',
-    email: 'info@tuinmobiliaria.cl',
+    email: 'info@australpropiedades.cl',
     whatsapp: '56912345678',
     address: 'Puerto Montt, Región de Los Lagos, Chile',
 };

@@ -7,6 +7,12 @@ interface PropertyCardProps {
 }
 
 export function PropertyCard({ property }: PropertyCardProps) {
+    const secondaryBadge = property.featured
+        ? 'Destacado'
+        : property.yearBuilt >= 2023
+            ? 'Nuevo'
+            : null;
+
     return (
         <article className="group overflow-hidden rounded-xl bg-white border border-gray-100 shadow-sm hover:shadow-lg transition-all duration-300">
             {/* Image */}
@@ -18,10 +24,15 @@ export function PropertyCard({ property }: PropertyCardProps) {
                     className="object-cover transition-transform duration-500 group-hover:scale-105"
                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                 />
-                <div className="absolute top-3 left-3">
+                <div className="absolute top-3 left-3 flex items-center gap-2">
                     <span className="inline-flex items-center rounded-full bg-forest px-3 py-1 text-xs font-medium text-white">
                         {property.status}
                     </span>
+                    {secondaryBadge && (
+                        <span className={`inline-flex items-center rounded-full px-3 py-1 text-xs font-medium text-white ${secondaryBadge === 'Destacado' ? 'bg-gold' : 'bg-navy'}`}>
+                            {secondaryBadge}
+                        </span>
+                    )}
                 </div>
             </div>
 
@@ -38,7 +49,7 @@ export function PropertyCard({ property }: PropertyCardProps) {
                     {property.location}
                 </p>
 
-                <p className="text-xl font-bold text-forest mb-3">
+                <p className="text-2xl font-semibold text-forest mb-3">
                     {formatPrice(property.price)}
                 </p>
 
