@@ -1,20 +1,20 @@
 const testimonials = [
     {
         name: 'María Gómez',
-        role: 'Propietaria en Puerto Montt',
-        text: 'Excelente servicio, vendieron mi casa rápido y sin complicaciones. Muy profesionales y siempre disponibles para responder mis dudas.',
+        role: 'Propietaria en Viña del Mar',
+        text: 'Excelente servicio, vendieron mi departamento rápido y sin complicaciones. Muy profesionales y siempre disponibles para responder mis dudas.',
         initials: 'MG',
     },
     {
         name: 'Carlos Pérez',
-        role: 'Inversionista en Puerto Varas',
-        text: 'Gran equipo, muy profesionales y confiables. Me ayudaron a encontrar la propiedad perfecta para inversión en el lago.',
+        role: 'Inversionista en Reñaca',
+        text: 'Gran equipo, muy profesionales y confiables. Me ayudaron a encontrar el departamento perfecto para inversión frente al mar en Reñaca.',
         initials: 'CP',
     },
     {
         name: 'Ana Rodríguez',
-        role: 'Compradora en Chiloé',
-        text: 'Nos acompañaron en todo el proceso de compra de nuestra casa en Chiloé. Conocen perfectamente el mercado local y nos dieron la mejor asesoría.',
+        role: 'Compradora en Valparaíso',
+        text: 'Nos acompañaron en todo el proceso de compra de nuestra casa en Cerro Alegre. Conocen perfectamente el mercado local y nos dieron la mejor asesoría.',
         initials: 'AR',
     },
 ];

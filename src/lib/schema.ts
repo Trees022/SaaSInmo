@@ -28,15 +28,17 @@ export function localBusinessSchema() {
         email: siteConfig.email,
         address: {
             '@type': 'PostalAddress',
-            addressLocality: 'Puerto Montt',
-            addressRegion: 'Los Lagos',
+            addressLocality: 'Viña del Mar',
+            addressRegion: 'Valparaíso',
             addressCountry: 'CL',
         },
         areaServed: [
-            { '@type': 'City', name: 'Puerto Montt' },
-            { '@type': 'City', name: 'Puerto Varas' },
-            { '@type': 'City', name: 'Chiloé' },
-            { '@type': 'City', name: 'Llanquihue' },
+            { '@type': 'City', name: 'Viña del Mar' },
+            { '@type': 'City', name: 'Valparaíso' },
+            { '@type': 'City', name: 'Con-Cón' },
+            { '@type': 'City', name: 'Quilpué' },
+            { '@type': 'City', name: 'Villa Alemana' },
+            { '@type': 'City', name: 'Reñaca' },
         ],
         priceRange: '$$$',
     };
@@ -58,7 +60,7 @@ export function propertySchema(property: Property) {
         address: {
             '@type': 'PostalAddress',
             addressLocality: property.location,
-            addressRegion: 'Los Lagos',
+            addressRegion: 'Valparaíso',
             addressCountry: 'CL',
         },
         numberOfRooms: property.bedrooms,

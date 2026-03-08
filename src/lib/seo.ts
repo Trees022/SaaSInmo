@@ -2,15 +2,15 @@ import type { Metadata } from 'next';
 
 /** Site-wide SEO constants — easy to swap per client */
 export const siteConfig = {
-    name: 'Austral Propiedades',
+    name: 'Propiedades V Región',
     description:
-        'Venta, arriendo y administración de propiedades en Puerto Montt, Chiloé, Puerto Varas y alrededores. Especialistas en propiedades del sur de Chile.',
-    url: 'https://australpropiedades.cl',
+        'Venta, arriendo y administración de propiedades en Viña del Mar, Valparaíso, Con-Cón, Quilpué, Villa Alemana y Reñaca. Especialistas en propiedades de la V Región.',
+    url: 'https://propiedadesvregion.cl',
     locale: 'es_CL',
     phone: '+56 9 1234 5678',
-    email: 'info@australpropiedades.cl',
+    email: 'info@propiedadesvregion.cl',
     whatsapp: '56912345678',
-    address: 'Puerto Montt, Región de Los Lagos, Chile',
+    address: 'Viña del Mar, Región de Valparaíso, Chile',
 };
 
 export function generatePageMetadata({

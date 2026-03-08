@@ -6,7 +6,7 @@ import { generatePageMetadata } from '@/lib/seo';
 export const metadata: Metadata = generatePageMetadata({
     title: 'Servicios Inmobiliarios',
     description:
-        'Ofrecemos servicios de venta, arriendo, administración y tasación de propiedades en Puerto Montt, Chiloé, Puerto Varas y alrededores.',
+        'Ofrecemos servicios de venta, arriendo, administración y tasación de propiedades en Viña del Mar, Valparaíso, Con-Cón, Quilpué, Villa Alemana y Reñaca.',
     path: '/servicios',
 });
 
@@ -34,7 +34,7 @@ const services = [
     {
         title: 'Arriendo de Inmuebles',
         description:
-            'Encontramos el arriendo perfecto para usted. Contamos con una amplia cartera de propiedades en arriendo, desde departamentos hasta casas y parcelas en las mejores ubicaciones del sur de Chile.',
+            'Encontramos el arriendo perfecto para usted. Contamos con una amplia cartera de propiedades en arriendo, desde departamentos hasta casas y parcelas en las mejores ubicaciones de la V Región.',
         features: [
             'Amplia cartera de propiedades',
             'Verificación de arrendatarios',
@@ -104,7 +104,7 @@ export default function ServiciosPage() {
                         Nuestros Servicios
                     </h1>
                     <p className="text-gray-medium max-w-2xl mx-auto text-lg">
-                        Ofrecemos un servicio integral para todas sus necesidades inmobiliarias en el sur de Chile.
+                        Ofrecemos un servicio integral para todas sus necesidades inmobiliarias en la V Región.
                     </p>
                 </div>
             </section>

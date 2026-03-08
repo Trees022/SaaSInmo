@@ -22,7 +22,7 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: {
-    default: `${siteConfig.name} — Propiedades en el Sur de Chile`,
+    default: `${siteConfig.name} — Propiedades en la V Región`,
     template: `%s | ${siteConfig.name}`,
   },
   description: siteConfig.description,

@@ -1,62 +1,92 @@
 [
     {
         "id": "1",
-        "name": "Puerto Montt",
-        "slug": "puerto-montt",
-        "description": "Capital de la Región de Los Lagos, Puerto Montt es una ciudad vibrante que combina el desarrollo urbano con un entorno natural privilegiado. Con vista al Seno de Reloncaví y rodeada de volcanes, ofrece una calidad de vida excepcional con todos los servicios de una ciudad moderna.",
+        "name": "Viña del Mar",
+        "slug": "vina-del-mar",
+        "description": "Conocida como la 'Ciudad Jardín', Viña del Mar es uno de los destinos más exclusivos de Chile. Con sus playas doradas, el Casino Municipal, la Quinta Vergara y un clima privilegiado, ofrece una calidad de vida excepcional que combina la vida urbana con el encanto costero.",
         "highlights": [
-            "Capital regional con todos los servicios",
-            "Aeropuerto internacional El Tepual",
-            "Conexión directa a Chiloé y la Carretera Austral",
-            "Puerto comercial y pesquero",
-            "Centro gastronómico del sur de Chile"
+            "Playas emblemáticas como Reñaca y Acapulco",
+            "Festival Internacional de la Canción",
+            "Excelente conectividad con Santiago",
+            "Amplia oferta gastronómica y cultural",
+            "Metro Valparaíso y acceso a la Ruta 68"
         ],
-        "opportunities": "Puerto Montt ofrece excelentes oportunidades de inversión inmobiliaria gracias a su constante crecimiento poblacional y desarrollo económico. Los sectores de Pelluco, Chinquihue y Alerce son los más demandados para viviendas familiares, mientras que el centro urbano concentra la mayor actividad comercial.",
-        "image": "/images/properties/casa-puerto-montt-1.png"
+        "opportunities": "Viña del Mar lidera el mercado inmobiliario de la V Región con alta demanda de departamentos frente al mar y casas en sectores como Miraflores, Recreo y Reñaca. El turismo estacional y la cercanía a Santiago generan excelentes oportunidades de inversión tanto para residencia como arriendo vacacional.",
+        "image": "/images/properties/depto-vina-1.png"
     },
     {
         "id": "2",
-        "name": "Chiloé",
-        "slug": "chiloe",
-        "description": "El archipiélago de Chiloé es un destino único en el mundo, declarado Patrimonio de la Humanidad por la UNESCO. Sus iglesias de madera, palafitos coloridos y tradiciones ancestrales lo convierten en un lugar mágico para vivir o invertir. La isla grande ofrece una calidad de vida tranquila y conectada con la naturaleza.",
+        "name": "Valparaíso",
+        "slug": "valparaiso",
+        "description": "Patrimonio de la Humanidad por la UNESCO, Valparaíso es una ciudad de cerros coloridos, arte callejero y bohemia. Su puerto histórico, sus funiculares centenarios y la vibrante vida cultural la convierten en un destino único para vivir o invertir.",
         "highlights": [
             "Patrimonio de la Humanidad UNESCO",
-            "Naturaleza y biodiversidad únicas",
-            "Gastronomía y cultura tradicional",
-            "Creciente turismo internacional",
-            "Precios accesibles con alto potencial de valorización"
+            "Cerros emblemáticos con arquitectura única",
+            "Puerto principal de Chile",
+            "Sede del Congreso Nacional",
+            "Vida cultural y artística vibrante"
         ],
-        "opportunities": "Chiloé presenta un mercado inmobiliario en pleno crecimiento, impulsado por el turismo y la búsqueda de calidad de vida. Castro y Ancud son los principales centros urbanos, mientras que localidades como Dalcahue y Chonchi ofrecen oportunidades para proyectos turísticos y segundas viviendas.",
-        "image": "/images/properties/casa-chiloe-1.png"
+        "opportunities": "Valparaíso ofrece oportunidades únicas en el segmento patrimonial y turístico. Las propiedades en cerros como Alegre y Concepción tienen alta demanda para arriendo turístico y hostelería boutique. El plan cerro y las renovaciones urbanas impulsan la valorización constante.",
+        "image": "/images/properties/casa-valparaiso-1.png"
     },
     {
         "id": "3",
-        "name": "Puerto Varas",
-        "slug": "puerto-varas",
-        "description": "Conocida como la 'Ciudad de las Rosas', Puerto Varas es una de las ciudades más hermosas del sur de Chile. Ubicada a orillas del Lago Llanquihue con vista al Volcán Osorno, combina la herencia colonizadora alemana con un estilo de vida moderno y conectado con la naturaleza.",
+        "name": "Con-Cón",
+        "slug": "concon",
+        "description": "Con-Cón es el balneario de moda de la V Región, reconocido por sus espectaculares dunas, playas de surf y su inigualable oferta gastronómica. Con un crecimiento inmobiliario acelerado, combina la tranquilidad costera con todas las comodidades modernas.",
         "highlights": [
-            "Vista al Lago Llanquihue y Volcán Osorno",
-            "Arquitectura de herencia alemana",
-            "Centro turístico de nivel internacional",
-            "Excelente gastronomía y hotelería",
-            "Deportes náuticos y actividades outdoor"
+            "Capital gastronómica de la V Región",
+            "Playas perfectas para el surf",
+            "Dunas de Con-Cón",
+            "Crecimiento inmobiliario sostenido",
+            "Residencial y turístico a la vez"
         ],
-        "opportunities": "Puerto Varas es el destino premium del sur de Chile para inversión inmobiliaria. Las propiedades con vista al lago tienen una alta demanda tanto para residencia permanente como para arriendo turístico. El constante flujo de turistas nacionales e internacionales asegura una excelente rentabilidad.",
-        "image": "/images/properties/casa-puerto-varas-1.png"
+        "opportunities": "Con-Cón se ha consolidado como la zona premium de la costa. Departamentos nuevos frente al mar y casas en el sector de Bosques de Montemar tienen altísima demanda. Es ideal para inversión tanto en arriendo a largo plazo como en arriendo vacacional.",
+        "image": "/images/properties/casa-concon-1.png"
     },
     {
         "id": "4",
-        "name": "Llanquihue",
-        "slug": "llanquihue",
-        "description": "La ciudad de Llanquihue, ubicada en la ribera sur del lago homónimo, es una alternativa tranquila y accesible para quienes buscan vivir cerca de Puerto Varas y Puerto Montt. Con un crecimiento sostenido y precios competitivos, es una excelente opción para familias jóvenes y proyectos inmobiliarios.",
+        "name": "Quilpué",
+        "slug": "quilpue",
+        "description": "Conocida como la 'Ciudad del Sol' por su clima cálido y seco, Quilpué es una excelente alternativa residencial en el interior de la V Región. Con precios más accesibles y un entorno tranquilo, es la opción preferida para familias que buscan calidad de vida.",
         "highlights": [
-            "Ubicación estratégica entre Puerto Montt y Puerto Varas",
-            "Precios más accesibles que ciudades vecinas",
-            "Ribera del Lago Llanquihue",
-            "Crecimiento urbano planificado",
-            "Ambiente familiar y seguro"
+            "Clima cálido todo el año",
+            "Precios más accesibles que la costa",
+            "Excelente conectividad vial y metro",
+            "Tranquilidad y seguridad residencial",
+            "Cercanía a centros comerciales"
         ],
-        "opportunities": "Llanquihue se ha convertido en una excelente alternativa para inversión inmobiliaria, con terrenos y propiedades a precios significativamente menores que Puerto Varas. Su cercanía a ambas ciudades y el desarrollo de nuevos proyectos la posicionan como una zona de alta valorización futura.",
-        "image": "/images/properties/casa-puerto-varas-2.png"
+        "opportunities": "Quilpué destaca por su relación precio-calidad. Las casas familiares en sectores como El Belloto y Paso Hondo son muy demandadas. El crecimiento de nuevos proyectos habitacionales y la mejora constante en infraestructura posicionan a Quilpué como zona de alta valorización futura.",
+        "image": "/images/properties/casa-quilpue-1.png"
+    },
+    {
+        "id": "5",
+        "name": "Villa Alemana",
+        "slug": "villa-alemana",
+        "description": "Villa Alemana es una ciudad residencial que ofrece un ambiente familiar y tranquilo en el corazón de la V Región. Rodeada de cerros y naturaleza, combina precios competitivos con buena conectividad urbana y un creciente desarrollo comercial.",
+        "highlights": [
+            "Ambiente familiar y seguro",
+            "Acceso directo al metro Valparaíso",
+            "Naturaleza y áreas verdes",
+            "Crecimiento comercial sostenido",
+            "Parcelas y terrenos disponibles"
+        ],
+        "opportunities": "Villa Alemana atrae cada vez más inversión inmobiliaria gracias a sus precios competitivos y buena conectividad. Las parcelas de agrado en los sectores altos y los nuevos proyectos de casas son ideales para familias que buscan espacios amplios a precios razonables.",
+        "image": "/images/properties/parcela-villalemana-1.png"
+    },
+    {
+        "id": "6",
+        "name": "Reñaca",
+        "slug": "renaca",
+        "description": "Reñaca es el balneario más exclusivo y sofisticado de la V Región. Con su icónica playa, vida nocturna vibrante y departamentos de lujo frente al mar, es el destino predilecto de quienes buscan un estilo de vida premium junto al Pacífico.",
+        "highlights": [
+            "Playa icónica de Chile",
+            "Departamentos de lujo frente al mar",
+            "Vida nocturna y gastronomía premium",
+            "Alta plusvalía inmobiliaria",
+            "Comunidad joven y dinámica"
+        ],
+        "opportunities": "Reñaca es la zona con mayor plusvalía de la costa, con departamentos que se valorizan año a año. Las propiedades con vista al mar tienen demanda constante para arriendo turístico, especialmente en temporada alta. Es la inversión premium por excelencia de la V Región.",
+        "image": "/images/properties/depto-renaca-1.png"
     }
 ]

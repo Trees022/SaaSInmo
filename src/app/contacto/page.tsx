@@ -5,7 +5,7 @@ import { generatePageMetadata, siteConfig } from '@/lib/seo';
 export const metadata: Metadata = generatePageMetadata({
     title: 'Contacto',
     description:
-        'Contáctenos para asesoría inmobiliaria en Puerto Montt, Chiloé, Puerto Varas y alrededores. Estamos disponibles para ayudarle.',
+        'Contáctenos para asesoría inmobiliaria en Viña del Mar, Valparaíso, Con-Cón, Quilpué, Villa Alemana y Reñaca. Estamos disponibles para ayudarle.',
     path: '/contacto',
 });
 
@@ -86,10 +86,10 @@ export default function ContactoPage() {
                                     Área de Servicio
                                 </h3>
                                 <p className="text-sm text-gray-medium mb-3">
-                                    Operamos en toda la Región de Los Lagos:
+                                    Operamos en toda la Región de Valparaíso:
                                 </p>
                                 <div className="flex flex-wrap gap-2">
-                                    {['Puerto Montt', 'Puerto Varas', 'Chiloé', 'Llanquihue'].map((area) => (
+                                    {['Viña del Mar', 'Valparaíso', 'Con-Cón', 'Quilpué', 'Villa Alemana', 'Reñaca'].map((area) => (
                                         <span
                                             key={area}
                                             className="inline-flex items-center rounded-full bg-forest/5 px-3 py-1 text-xs font-medium text-forest"

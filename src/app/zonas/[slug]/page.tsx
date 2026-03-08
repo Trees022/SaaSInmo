@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     if (!zone) return {};
 
     return generatePageMetadata({
-        title: `Propiedades en ${zone.name} — Sur de Chile`,
+        title: `Propiedades en ${zone.name} — V Región`,
         description: zone.description.slice(0, 160),
         path: `/zonas/${zone.slug}`,
     });

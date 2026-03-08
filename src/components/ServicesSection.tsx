@@ -60,7 +60,7 @@ export function ServicesSection() {
                         Nuestros Servicios
                     </h2>
                     <p className="text-gray-medium max-w-2xl mx-auto">
-                        Ofrecemos un servicio integral para todas sus necesidades inmobiliarias en el sur de Chile.
+                        Ofrecemos un servicio integral para todas sus necesidades inmobiliarias en la V Región.
                     </p>
                 </div>
 

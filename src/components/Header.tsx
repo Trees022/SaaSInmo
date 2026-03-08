@@ -37,7 +37,7 @@ export function Header() {
                                 fill="currentColor"
                             />
                         </svg>
-                        <span>Austral Propiedades</span>
+                        <span>Propiedades V Región</span>
                     </Link>
 
                     {/* Desktop links */}

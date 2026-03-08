@@ -5,9 +5,9 @@ import { getAllProperties } from '@/lib/properties';
 import { generatePageMetadata } from '@/lib/seo';
 
 export const metadata: Metadata = generatePageMetadata({
-    title: 'Propiedades en Venta — Sur de Chile',
+    title: 'Propiedades en Venta — V Región',
     description:
-        'Explore nuestra selección de casas, parcelas y cabañas en Puerto Montt, Chiloé, Puerto Varas y alrededores. Encuentre su propiedad ideal.',
+        'Explore nuestra selección de departamentos, casas y parcelas en Viña del Mar, Valparaíso, Con-Cón, Quilpué, Villa Alemana y Reñaca. Encuentre su propiedad ideal.',
     path: '/propiedades',
 });
 
@@ -24,7 +24,7 @@ export default function PropiedadesPage() {
                             Propiedades
                         </h1>
                         <p className="text-gray-medium max-w-2xl mx-auto text-lg">
-                            Explore nuestra selección de propiedades disponibles en el sur de Chile.
+                            Explore nuestra selección de propiedades disponibles en la V Región.
                         </p>
                     </div>
                 </div>

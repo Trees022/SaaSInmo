@@ -27,7 +27,7 @@ export default function HomePage() {
               Propiedades Destacadas
             </h2>
             <p className="text-gray-medium max-w-2xl mx-auto">
-              Descubra nuestra selección de las mejores propiedades disponibles en el sur de Chile.
+              Descubra nuestra selección de las mejores propiedades disponibles en la V Región.
             </p>
           </div>
           <PropertyGrid properties={featuredProperties} />

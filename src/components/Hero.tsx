@@ -10,7 +10,7 @@ export function Hero() {
             {/* Background image — using next/image for WebP auto-conversion and responsive sizing */}
             <Image
                 src="/images/hero/hero-bg.png"
-                alt="Paisaje del sur de Chile — lagos y montañas"
+                alt="Vista panorámica de Viña del Mar y la costa de la V Región"
                 fill
                 priority
                 className="object-cover"
@@ -24,10 +24,10 @@ export function Hero() {
             {/* Content */}
             <div className="relative z-10 mx-auto max-w-4xl px-6 pt-20 text-center text-white">
                 <h1 className="font-[var(--font-heading)] text-3xl sm:text-5xl md:text-6xl font-semibold leading-tight mb-6 drop-shadow-lg">
-                    Encuentra Tu Próxima Propiedad en el Sur de Chile
+                    Encuentra Tu Próxima Propiedad en la V Región
                 </h1>
                 <p className="text-base sm:text-xl text-white/90 mb-10 max-w-2xl mx-auto font-light drop-shadow">
-                    Venta, arriendo y administración de propiedades en Puerto Montt, Chiloé y Puerto Varas.
+                    Venta, arriendo y administración de propiedades en Viña del Mar, Valparaíso, Con-Cón y más.
                 </p>
 
                 <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
